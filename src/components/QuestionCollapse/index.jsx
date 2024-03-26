@@ -21,7 +21,7 @@ const QuestionCollapse = ({
   };
 
   const handleOptionSelect = (optionValue, isChecked) => {
-    if (isQCM) {
+    if (type === "qcm" ? true : false) {
       // For QCM (multiple choice), toggle the selected option
       if (isChecked) {
         setSelectedOptions([...selectedOptions, optionValue]);
