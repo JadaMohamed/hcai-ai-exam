@@ -10,7 +10,6 @@ const QuestionCollapse = ({
   answers,
   parentCollapse,
 }) => {
-  const [isQCM, setIsQCM] = useState(type === "qcm" ? true : false);
   const [isCollapsed, setIsCollapsed] = useState(parentCollapse);
   const [selectedOptions, setSelectedOptions] = useState([]);
 
@@ -54,7 +53,7 @@ const QuestionCollapse = ({
               number={number}
               i={i}
               isChecked={selectedOptions.includes(e[0])}
-              isQCM={isQCM}
+              isQCM={type === "qcm" ? true : false}
               handleOptionSelect={handleOptionSelect}
             />
           ))}
