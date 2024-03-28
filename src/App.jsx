@@ -9,7 +9,7 @@ function App() {
     <div className="flex flex-col justify-center gap-6 my-8 mx-3">
       <div className="m-auto text-gray-100 max-w-xl w-full text-2xl">
         <h1>Huawei HCIA-AI V3.0 Exam</h1>
-        <h2 className="text-lg text-gray-400">Product Questions: 80</h2>
+        <h2 className="text-lg text-gray-400">Product Questions: 270</h2>
         <div className="m-auto justify-end flex text-gray-100 max-w-xl w-full text-2xl">
           <button
             className="bg-[#ffffff0a] p-2 rounded-lg hover:bg-[#ffffff13] duration-300"
