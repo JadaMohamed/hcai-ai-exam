@@ -3013,4 +3013,1074 @@ export const Questions = [
     ],
     answers: ["A", "B", "C", "D", "E"],
   },
+  {
+    number: 271,
+    type: "qcm",
+    question:
+      "X, Y are random variables, C is a constant, the nature of the difference in the following options which is wrong? (Multiple choice)",
+    options: [
+      "A. D(C)=0",
+      "B. D(X+ Y)=D(X)+D(Y)",
+      "C. D(CX)=C*C*D(X)",
+      "D. D(XY)=D(X)D(Y)",
+    ],
+    answers: ["B", "D"],
+  },
+  {
+    number: 272,
+    type: "qcu",
+    question: "Vector is a number.",
+    options: ["A. True", "B. False"],
+    answers: ["B"],
+  },
+  {
+    number: 273,
+    type: "qcu",
+    question:
+      "About Bayesian formula- P(W|X)=P(X|W)*P(W)/P(X) What is the correct description?",
+    options: [
+      "A. P(W|X) is a prior probability",
+      "B. P(X|W) is a conditional probability",
+      "C. P(W) is the posterior probability",
+      "D. P(X) is the posterior probability",
+    ],
+    answers: ["B"],
+  },
+  {
+    number: 274,
+    type: "qcu",
+    question:
+      "Gyclic neural networks are more suitable for dealing with image recognition problems.",
+    options: ["A. True", "B. False"],
+    answers: ["B"],
+  },
+  {
+    number: 275,
+    type: "qcu",
+    question:
+      "Tensorflow Operations and Computation Graph are not - run in the Session",
+    options: ["A. True", "B. False"],
+    answers: ["B"],
+  },
+  {
+    number: 276,
+    type: "qcm",
+    question:
+      "What is in the category of artificial intelligence? (Multiple choice)",
+    options: [
+      "A. Action",
+      "B. Perception",
+      "C. Cognition",
+      "D. None of the above",
+    ],
+    answers: ["A", "B", "C"],
+  },
+  {
+    number: 277,
+    type: "qcu",
+    question:
+      "The Python language does not allow embedding another loop body in a loop body",
+    options: ["A. True", "B. False"],
+    answers: ["B"],
+  },
+  {
+    number: 278,
+    type: "qcm",
+    question:
+      "What are the mainstream deep learning open source tools? (Multiple choice)",
+    options: [
+      "A. TensorFlow",
+      "B. Caffe",
+      "C. Torch",
+      "D. Theano",
+      "E. Scikit..Jeam",
+    ],
+    answers: ["A", "B", "C", "D"],
+  },
+  {
+    number: 279,
+    type: "qcu",
+    question:
+      "The for loop statement in the Python language can iterate through the items in any sequence.",
+    options: ["A. True", "B. False"],
+    answers: ["A"],
+  },
+  {
+    number: 280,
+    type: "qcu",
+    question:
+      "Convolutional neural networks are more suitable for image recognition problems than cyclic neural networks.",
+    options: ["A. True", "B. False"],
+    answers: ["A"],
+  },
+  {
+    number: 281,
+    type: "qcu",
+    question:
+      "Huawei Cloud El builds enterprise intelligence services based on three-tier services. Which of the following options does not belong to Layer 3 services?",
+    options: [
+      "A. Basic platform services",
+      "B. General domain services",
+      "C. Industry sector services",
+      "D. Integration services",
+    ],
+    answers: ["D"],
+  },
+  {
+    number: 282,
+    type: "qcu",
+    question: "Which of the following is true about unsupervised learning?",
+    options: [
+      "A. Unsupervised algorithm only processes “features” and does not process ·tags·",
+      "B. Dimensionality reduction algorithm is not unsupervised learning",
+      "C. K-means algorithm and SVM algorithm belong lo unsupervised learning",
+      "D. None of the above",
+    ],
+    answers: ["A"],
+  },
+  {
+    number: 283,
+    type: "qcu",
+    question:
+      "Which of the following options is not the Tensorflow build process?",
+    options: [
+      "A. Building a calculation chart",
+      "B. Input tensor",
+      "C. Generate a session",
+      "D. Update weights (Right Answers)",
+    ],
+    answers: ["D"],
+  },
+  {
+    number: 284,
+    type: "qcu",
+    question: "What model is not a cyclic neural network?",
+    options: ["A. RNN", "B. LSTM", "C. GBOT", "D. GRU"],
+    answers: ["C"],
+  },
+  {
+    number: 285,
+    type: "qcu",
+    question:
+      "Under the large-scale relationship analysis scenario, which of the following options does not belong to the three high demands of massive relationship processing?",
+    options: [
+      "A. Efficient relationship discovery data for massive data",
+      "B. Efficient sharing of massive data",
+      "C. Efficient storage and access requirements for massive amounts of data",
+      "D. High scalability and high availability requirements for relational analysis platforms",
+    ],
+    answers: ["B"],
+  },
+  {
+    number: 286,
+    type: "qcm",
+    question: "What are the commonly used loss functions? (Multiple choice)",
+    options: [
+      "A. Mean variance",
+      "B. Sigmoid cross entropy",
+      "C. Soft max cross entropy",
+      "D. Sparse cross entropy",
+      "E. Weighted S1gmo1d Cross Entropy",
+    ],
+    answers: ["A", "B", "C", "D", "E"],
+  },
+  {
+    number: 287,
+    type: "qcu",
+    question:
+      "What are the steps that are not part of the operation of a Python file object?",
+    options: ["A. open", "B. delete", "C. read", "D. write", "E. close"],
+    answers: ["B"],
+  },
+  {
+    number: 288,
+    type: "qcu",
+    question:
+      "Tensorflow is the second generation of artificial intelligence learning system developed by Google based on ( ).",
+    options: [
+      "A. DistBelief",
+      "B. PaleyFunction",
+      "C. ConvexOne",
+      "D. Infinity",
+    ],
+    answers: ["A"],
+  },
+  {
+    number: 289,
+    type: "qcu",
+    question:
+      'The Python language can use the "#" at the beginning of a single line of code for code comments .',
+    options: ["A. True", "B. False"],
+    answers: ["A"],
+  },
+  {
+    number: 290,
+    type: "qcu",
+    question:
+      "According to the definition of information entropy what is the bit entropy of throwing a uniform coin?",
+    options: ["A. 0", "B. 0.5", "C. 1", "D. -1"],
+    answers: ["C"],
+  },
+  {
+    number: 291,
+    type: "qcu",
+    question:
+      "Artificial intelligence is currently suitable for scenarios with known environment, clear objectives, and predictable action. Deep learning in the fields of image recognition, speech recognition, translation, etc., artificial intelligence basically has human recognition ability, even surpassing human beings. Based on these capabilities, it has been applied to many scenes such as medical care and public safety. However, there is still a lack of reasoning and cognition.",
+    options: ["A. True", "B. False"],
+    answers: ["A"],
+  },
+  {
+    number: 292,
+    type: "qcu",
+    question:
+      "Python authors deliberately design very restrictive grammars that make bad programming habits (such as the next line of if statement not indented to the right) cannot be compiled.",
+    options: ["A. True", "B. False"],
+    answers: ["A"],
+  },
+  {
+    number: 293,
+    type: "qcu",
+    question:
+      "The timestamps in the Python language are represented by how long (in seconds) elapsed from midnight (epoch) on January 1, 1970.",
+    options: ["A. True", "B. False"],
+    answers: ["A"],
+  },
+  {
+    number: 294,
+    type: "qcu",
+    question:
+      "Convolutional neural networks are more suitable for dealing with speech recognition problems.",
+    options: ["A. True", "B. False"],
+    answers: ["B"],
+  },
+  {
+    number: 295,
+    type: "qcm",
+    question:
+      "What are the results returned by the if conditional statements in the Python language? (Multiple choice)",
+    options: ["A. True", "B. 0", "C. FALSE", "D. null"],
+    answers: ["B", "C"],
+  },
+  {
+    number: 296,
+    type: "qcu",
+    question:
+      "Which of the following descriptions of the validation set is wrong?",
+    options: [
+      "A. The verification set can coincide with the test set.",
+      "B. The test set can coincide with the training set.",
+      "C. The subset used to pick hyperparameters is called a validation set.",
+      "D. Typically 80% of the training data is used for training and 20% is used for verification.",
+    ],
+    answers: ["A"],
+  },
+  {
+    number: 297,
+    type: "qcm",
+    question:
+      "Which of the following can optimization problem be classified according to the constraints? (Multiple choice)",
+    options: [
+      "A. equality constraints",
+      "B. Inequality constraints",
+      "C. Unconstrained conditions",
+      "D. Semi-constraint conditions",
+    ],
+    answers: ["A", "B", "C"],
+  },
+  {
+    number: 298,
+    type: "qcm",
+    question:
+      "Which of the following are the characteristics of the Python language? (Multiple choice)",
+    options: [
+      "A. Explanatory",
+      "B. Process oriented",
+      "C. Object-oriented",
+      "D. Dynamic data type",
+    ],
+    answers: ["A", "C", "D"],
+  },
+  {
+    number: 299,
+    type: "qcm",
+    question:
+      "Which of the following are the elements of artificial intelligence? (Multiple choice)",
+    options: ["A. Algorithm", "B. Computing power", "C. Data", "D. Scene"],
+    answers: ["A", "B", "C", "D"],
+  },
+  {
+    number: 300,
+    type: "qcu",
+    question:
+      "Which of the following is not a specific technology of artificial intelligence?",
+    options: [
+      "A. Knowledge map",
+      "B. Machine translation",
+      "C. Riemann geometry",
+      "D. Semantic understanding",
+    ],
+    answers: ["C"],
+  },
+  {
+    number: 301,
+    type: "qcm",
+    question:
+      "Which of the following statements about overflow and underflow in numerical calculations is correct? (Multiple choice)",
+    options: [
+      "A. Underflow occurs when the number close to zero Is rounded to zero",
+      "B. Overflow occurs when the number close to zero 1s rounded to zero",
+      "C. Overflow occurs when a large number of levels are approximated as 1P or - 1P",
+      "D. Underflow occurs when a large number of levels are approximated as 1P or - 1P",
+    ],
+    answers: ["A", "C"],
+  },
+  {
+    number: 302,
+    type: "qcu",
+    question:
+      "Which of the following descriptions about Python regular expression is not correct?",
+    options: [
+      "A. Python has added there regular expression module since version 1.5.",
+      "B. re regular expression module gives the Python language all the regular expression functionality.",
+      "C. re regular expressions are powerful tools for working with strings.",
+      "D. re regular expressions can only process string data not numeric data",
+    ],
+    answers: ["D"],
+  },
+  {
+    number: 303,
+    type: "qcu",
+    question:
+      "In which year was the first introduction of 'artificial intelligence'?",
+    options: ["A. 1946", "B. 1960", "C. 1916", "D. 1956"],
+    answers: ["D"],
+  },
+  {
+    number: 304,
+    type: "qcu",
+    question:
+      "Which of the following descriptions about the relationship between the Poisson distribution and the binomial distribution is correct?",
+    options: [
+      "A. The mathematical model of the Poisson distribution and the binomial distribution are both Lagrangian models.",
+      "B. Poisson distribution is an approximation of the binomial distribution when n is very large and p is small.",
+      "C. Poisson distribution has no relationship with binomial distribution",
+      "D. Poisson distribution can replace binomial distribution",
+    ],
+    answers: ["B"],
+  },
+  {
+    number: 305,
+    type: "qcu",
+    question:
+      "Which of the following is not an artificial intelligence school?",
+    options: [
+      "A. Symbolism",
+      "B. Statisticalism",
+      "C. Behaviorism",
+      "D. Connectionism",
+    ],
+    answers: ["B"],
+  },
+  {
+    number: 306,
+    type: "qcu",
+    question:
+      "Which of the following does the convolutional neural network structure not include?",
+    options: [
+      "A. Convolutional layer",
+      "B. Pooling layer",
+      "C. Loop layer",
+      "D. Fully connected layer",
+    ],
+    answers: ["C"],
+  },
+  {
+    number: 307,
+    type: "qcu",
+    question:
+      "Which of the following functions can numerically stabilize overflow and underflow?",
+    options: [
+      "A. Softminus function",
+      "B. Softplus function",
+      "C. Softmax function",
+      "D. Softmin function",
+    ],
+    answers: ["C"],
+  },
+  {
+    number: 308,
+    type: "qcm",
+    question: "What are the advantages of Python? (Multiple choice)",
+    options: [
+      "A. Simple",
+      "B. Free",
+      "C. High-level language",
+      "D. Rich library",
+    ],
+    answers: ["A", "B", "C", "D"],
+  },
+  {
+    number: 309,
+    type: "qcu",
+    question:
+      "Python script execution mode includes interactive mode and script mode",
+    options: ["A. True", "B. False"],
+    answers: ["A"],
+  },
+  {
+    number: 310,
+    type: "qcm",
+    question:
+      "Which of the following features does Python support? (Multiple choice)",
+    options: [
+      "A. Inheritance",
+      "B. Heavy load",
+      "C. Derived",
+      "D. Multiple inheritance",
+    ],
+    answers: ["A", "B", "C", "D"],
+  },
+  {
+    number: 311,
+    type: "qcu",
+    question:
+      "Which of the following descriptions of the number of rows and columns of the matrix is correct?",
+    options: [
+      "A. The number of rows is greater than the number of columns",
+      "B. The number of rows is equal to the number of columns",
+      "C. The number of rows is less than the number of columns",
+      "D. The number of rows has no relationship with the number of columns.",
+    ],
+    answers: ["D"],
+  },
+  {
+    number: 312,
+    type: "qcu",
+    question: "Which of the following is the computing model of TensorFlow?",
+    options: [
+      "A. Calculation chart",
+      "B. Tensor",
+      "C. Conversation",
+      "D. Variable",
+    ],
+    answers: ["A"],
+  },
+  {
+    number: 313,
+    type: "qcm",
+    question:
+      "Which of the following can improve the computational efficiency of the neural network model? (Multiple choice)",
+    options: [
+      "A. TPU",
+      "B. GPU",
+      "C. FPGA",
+      "D. Large-scale distributed cluster",
+    ],
+    answers: ["A", "B", "C", "D"],
+  },
+  {
+    number: 314,
+    type: "qcm",
+    question:
+      "Which of the following statements about Python are correct? (Multiple choice)",
+    options: [
+      "A. Invented in 1989 by the Dutch Guido van Rossum, the first public release was issued in 1991.",
+      "B. Python is purely free software and the source code follows the GPL (GNU General Public License) protocol.",
+      "C. Python syntax is simple and clean. One of the features is to force blank characters to be used as statement indentation.",
+      "D. Python is often nicknamed glue language which can easily connect various modules made in other languages",
+    ],
+    answers: ["A", "B", "C", "D"],
+  },
+  {
+    number: 315,
+    type: "qcu",
+    question:
+      "Which of the following does not belong to long-term memory LSTM (long Short-Term Memory) network architecture?",
+    options: [
+      "A. Memory door",
+      "B. Forget the door",
+      "C. Input door",
+      "D. Output door",
+    ],
+    answers: ["A"],
+  },
+  {
+    number: 316,
+    type: "qcu",
+    question:
+      "In order for a machine to be intelligent, it must be knowledgeable. Therefore, there is a research field in artificial intelligence, which mainly studies how computers automatically acquire knowledge and skills to achieve self-improvement. What is the branch of this research called?",
+    options: [
+      "A. Expert system",
+      "B. Machine learning",
+      "C. Neural Network",
+      "D. Natural language processing",
+    ],
+    answers: ["B"],
+  },
+  {
+    number: 317,
+    type: "qcm",
+    question:
+      "Which of the following descriptions about Python program are correct? (Multiple choice)",
+    options: [
+      "A. The program consists of modules",
+      "B. Module contains statements",
+      "C. Statement contains an expression",
+      "D. Expressions create and process objects",
+    ],
+    answers: ["A", "B", "C", "D"],
+  },
+  {
+    number: 318,
+    type: "qcu",
+    question:
+      "Huawei Machine learning Service MLS MLS is a one-stop platform that supports the entire process of data analysis. Which of the following is not a feature of MLS?",
+    options: [
+      "A. A rich library of machine learning algorithms.",
+      "B. Machine learning program is intuitive and easy to use.",
+      "C. Distributed and scalable big data computing engine.",
+      "D. Support for the R language but does not support the Python language",
+    ],
+    answers: ["D"],
+  },
+  {
+    number: 319,
+    type: "qcm",
+    question:
+      "Training error will reduce the accuracy of the model and produce under-fitting. How to improve the model fit? (Multiple choice)",
+    options: [
+      "A. Increase the amount of data",
+      "B. Feature Engineering",
+      "C. Reduce regularization parameters",
+      "D. Add features",
+    ],
+    answers: ["A", "B", "D"],
+  },
+  {
+    number: 320,
+    type: "qcu",
+    question:
+      "Which of the following is not a way for the TensorFlow program to read data?",
+    options: [
+      "A. Preload data",
+      "B. Feeding data",
+      "C. Read from the file",
+      "D. Write a file format reader",
+    ],
+    answers: ["D"],
+  },
+  {
+    number: 321,
+    type: "qcu",
+    question: "Self-encoder is an unsupervised learning algorithm",
+    options: ["A. True", "B. False"],
+    answers: ["A"],
+  },
+  {
+    number: 322,
+    type: "qcu",
+    question: "The number or matrix is stored in the tensor",
+    options: ["A. True", "B. False"],
+    answers: ["B"],
+  },
+  {
+    number: 323,
+    type: "qcu",
+    question:
+      "Which of the following descriptions about the Recurrent Neural Network (RNN) is correct?",
+    options: [
+      "A. Can be used to process sequence data.",
+      "B. Cannot process variable length sequence data.",
+      "C. Unlike convolutional neural networks, parameters of RNN cannot be shared.",
+      "D. The units above the hidden layer are not associated with each other.",
+    ],
+    answers: ["A"],
+  },
+  {
+    number: 324,
+    type: "qcu",
+    question:
+      "Artificial intelligence is a new technical science that studies and develops theories, methods and application systems for simulating, extending and extending human intelligence. It is one of the core research areas of machine learning.",
+    options: ["A. True", "B. False"],
+    answers: ["B"],
+  },
+  {
+    number: 325,
+    type: "qcu",
+    question: "The TensorFlow framework does not support Windows systems.",
+    options: ["A. True", "B. False"],
+    answers: ["B"],
+  },
+  {
+    number: 326,
+    type: "qcu",
+    question:
+      "Which of the following descriptions of the depth feedforward network is correct?",
+    options: [
+      "A. Deep feedforward network is a kind of neural network.",
+      "B. The deep feedforward network has only one hidden layer.",
+      "C. The unit on the hidden layer of the deep feedforward network will have countless.",
+      "D. Deep feedforward network is used to deal with linear problems.",
+    ],
+    answers: ["A"],
+  },
+  {
+    number: 327,
+    type: "qcu",
+    question:
+      "The time interval in the Python language is a floating-point fraction in seconds",
+    options: ["A. True", "B. False"],
+    answers: ["A"],
+  },
+  {
+    number: 328,
+    type: "qcu",
+    question:
+      "Which of the following is not part of the deep learning development framework?",
+    options: ["A. CNTK", "B. Keras", "C. SAFA", "D. MXNet"],
+    answers: ["C"],
+  },
+  {
+    number: 329,
+    type: "qcm",
+    question:
+      "Which of the following are included in the application scenarios of Tensorflow? (Multiple choice)",
+    options: [
+      "A. Speech recognition",
+      "B. Face recognition",
+      "C. Image style changes",
+      "D. Autopilot",
+    ],
+    answers: ["A", "B", "C", "D"],
+  },
+  {
+    number: 330,
+    type: "qcm",
+    question:
+      "Which of the following neural network structures will share weights? (Multiple choice)",
+    options: [
+      "A. Convolutional neural network",
+      "B. Recurrent neural network",
+      "C. Fully connected neural network",
+      "D. All of the above",
+    ],
+    answers: ["A", "B"],
+  },
+  {
+    number: 331,
+    type: "qcu",
+    question:
+      "The correlation coefficient, also known as the linear correlation coefficient, is used to measure the linear relationship between two variables, which is a real number greater than zero",
+    options: ["A. True", "B. False"],
+    answers: ["B"],
+  },
+  {
+    number: 332,
+    type: "qcu",
+    question:
+      "X, Y are random variables. C is a constant. Which of the following descriptions about the nature of the mathematical expectation is incorrect?",
+    options: [
+      "A. E(C) = C",
+      "B. E(X+Y) = E(X)+E(Y)",
+      "C. E(CX) = CE(X)",
+      "D. E(XY) = E(X)E(Y)",
+    ],
+    answers: ["D"],
+  },
+  {
+    number: 333,
+    type: "qcu",
+    question:
+      "Which of the following statements about the matrix is incorrect?",
+    options: [
+      "A. The arbitrary matrix is multiplied by the unit matrix and will not change.",
+      "B. The transpose of the symmetric matrix A is also A itself.",
+      "C. The transpose of the orthogonal matrix A is equal to the inverse of A.",
+      "D. There is no inverse matrix for the diagonal matrix.",
+    ],
+    answers: ["D"],
+  },
+  {
+    number: 334,
+    type: "qcu",
+    question: "Which is not a deep learning algorithm?",
+    options: [
+      "A. Self-encoder",
+      "B. Convolutional neural networks",
+      "C. Recurrent neural networks",
+      "D. Support vector machine",
+    ],
+    answers: ["D"],
+  },
+  {
+    number: 335,
+    type: "qcu",
+    question:
+      "TensorFlow is Google's first generation of proprietary machine learning systems",
+    options: ["A. True", "B. False"],
+    answers: ["B"],
+  },
+  {
+    number: 336,
+    type: "qcu",
+    question:
+      "Which of the following schools does the neural network study belong to?",
+    options: [
+      "A. Symbolism",
+      "B. Connectionism",
+      "C. Behaviorism",
+      "D. None of the above",
+    ],
+    answers: ["B"],
+  },
+  {
+    number: 337,
+    type: "qcm",
+    question:
+      "Reducing the gap between the training error and the test error will result in over-fitting. How to prevent over-fitting? (Multiple Choice)",
+    options: [
+      "A. Cross validation",
+      "B. Integration method",
+      "C. Increase regularization",
+      "D. Feature Engineering",
+    ],
+    answers: ["A", "B", "C", "D"],
+  },
+  {
+    number: 338,
+    type: "qcu",
+    question: "Which is wrong with the Python module time introduction method?",
+    options: [
+      "A. import time",
+      "B. from time import *",
+      "C. import time as t",
+      "D. from time",
+    ],
+    answers: ["D"],
+  },
+  {
+    number: 339,
+    type: "qcu",
+    question:
+      "In what year did Huawei officially provide services in the form of cloud services, and combined with more partners to provide richer artificial intelligence practices?",
+    options: ["A. 2002", "B. 2013", "C. 2015", "D. 2017"],
+    answers: ["D"],
+  },
+  {
+    number: 340,
+    type: "qcu",
+    question:
+      "Which description is wrong about the lambda function of the Python language?",
+    options: [
+      "A. lambda is just an expression, and the function body is much simpler than def.",
+      "B. The body of a lambda can be an expression or a block of code",
+      "C. The lambda function can access the parameters in the global namespace.",
+      "D. The lambda function accepts only one parameter value",
+    ],
+    answers: ["D"],
+  },
+  {
+    number: 341,
+    type: "qcu",
+    question:
+      "The meaning of artificial intelligence was first proposed by a scientist in 1950, and at the same time a test model of machine intelligence was proposed. Who is this scientist?",
+    options: ["A. Minsky", "B. Zade", "C. Turing", "D. Von Neumann"],
+    answers: ["C"],
+  },
+  {
+    number: 342,
+    type: "qcu",
+    question:
+      "The number of rows and columns of the three matrices A, B, and C is 3 rows and 2 columns, 2 rows and 3 columns, 3 rows and 3 columns. Which of the following operations is meaningful?",
+    options: ["A. AC", "B. BC", "C. A+B", "D. AB-BC"],
+    answers: ["B"],
+  },
+  {
+    number: 343,
+    type: "qcu",
+    question:
+      "The constituent elements of the Python identifier include: numbers, letters, and underscores.",
+    options: ["A. True", "B. False"],
+    answers: ["A"],
+  },
+  {
+    number: 344,
+    type: "qcu",
+    question: "Which description is wrong about the hyperparameter?",
+    options: [
+      "A. Hyperparameters are parameters that set values before the algorithm begins learning.",
+      "B. Most machine learning algorithms have hyperparameters.",
+      "C. Hyperparameters cannot be modified",
+      "D. The value of the hyperparameter is not learned by the algorithm itself.",
+    ],
+    answers: ["C"],
+  },
+  {
+    number: 345,
+    type: "qcu",
+    question:
+      "Which of the following is not a module in the Tensorflow library?",
+    options: ["A. tf.nn", "B. tf.layers", "C. tf.boost", "D. tf.contrib"],
+    answers: ["C"],
+  },
+  {
+    number: 346,
+    type: "qcu",
+    question:
+      "As shown in the figure below, what is the value of the determinant A?",
+    options: ["A. 24", "B. 18", "C. -24", "D. 0"],
+    answers: ["D"],
+  },
+  {
+    number: 347,
+    type: "qcu",
+    question:
+      "How many spaces does PEP 8 stipulate that Python's first line indentation needs to indent?",
+    options: ["A. 1", "B. 2", "C. 4", "D. 8"],
+    answers: ["C"],
+  },
+  {
+    number: 348,
+    type: "qcm",
+    question: "What are the Python language data types? (Multiple Choice)",
+    options: [
+      "A. numbers",
+      "B. string",
+      "C. list",
+      "D. tuple",
+      "E. dictionary",
+    ],
+    answers: ["A", "B", "C", "D", "E"],
+  },
+  {
+    number: 349,
+    type: "qcm",
+    question:
+      "What are the algorithms supported by Tensorflow? (Multiple Choice)",
+    options: ["A. GNN", "B. ZNN", "C. RNN", "D. HUT"],
+    answers: ["A", "C"],
+  },
+  {
+    number: 350,
+    type: "qcu",
+    question: "Which is not a Python operator?",
+    options: [
+      "A. arithmetic operator",
+      "B. Reasoning operator",
+      "C. Logical operator",
+      "D. Comparison operator",
+    ],
+    answers: ["B"],
+  },
+  {
+    number: 351,
+    type: "qcu",
+    question:
+      "Which method is not supported in TensorFlow to define variables?",
+    options: [
+      "A. Random number",
+      "B. Constant",
+      "C. Calculated from the initial values of other variables",
+      "D. null",
+    ],
+    answers: ["D"],
+  },
+  {
+    number: 352,
+    type: "qcu",
+    question:
+      "What does factors that promote the development of artificial intelligence not include?",
+    options: [
+      "A. Big data",
+      "B. Computing ability",
+      "C. Algorithm theory",
+      "D. Block chain",
+    ],
+    answers: ["D"],
+  },
+  {
+    number: 353,
+    type: "qcm",
+    question:
+      "Which of the following are solutions for the Huawei Cloud El industry scenario? (Multiple Choice)",
+    options: [
+      "A. Intelligent Logistics",
+      "B. Intelligent Water",
+      "C. Intelligent transportation",
+      "D. Intelligent Finance",
+      "E. Intelligent manufacturing",
+    ],
+    answers: ["A", "B", "C", "D", "E"],
+  },
+  {
+    number: 354,
+    type: "qcu",
+    question:
+      "Vector group a1=(1, 1, 1), a2=(0,2.5), a3=(1.3,6), which of the following options is correct?",
+    options: [
+      "A. Linear correlation",
+      "B. Linear independence",
+      "C. a1·a2+a3=0",
+      "D. 2a1+a2+a3=0",
+    ],
+    answers: ["A"],
+  },
+  {
+    number: 355,
+    type: "qcm",
+    question:
+      "What are the scenarios or industries that are suitable for using Python? (Multiple Choice)",
+    options: [
+      "A. Artificial intelligence",
+      "B. Web development",
+      "C. Game development",
+      "D. Hardware development",
+    ],
+    answers: ["A", "B", "C"],
+  },
+  {
+    number: 356,
+    type: "qcm",
+    question:
+      "Which descriptions are correct about python’s index? (Multiple Choice)",
+    options: [
+      "A. Index from left to right defaults from 0",
+      "B. Index from left to right defaults from 1",
+      "C. Index from right to left defaults from -1",
+      "D. Index from right to left defaults from 0",
+    ],
+    answers: ["A", "C"],
+  },
+  {
+    number: 357,
+    type: "qcu",
+    question:
+      "Huawei firmly believes that the value of AI is ultimately reflected in solving the actual business problems of the enterprise. Therefore, Huawei is firmly committed to the development of AI technology, focusing on domain solutions, focusing on basic technologies and enabling platforms, and working with industry practice leaders to develop industry solutions",
+    options: ["A. True", "B. False"],
+    answers: ["A"],
+  },
+  {
+    number: 358,
+    type: "qcu",
+    question:
+      "The Python dictionary is identified by “{}”, and the internal data consists of the key and its corresponding value.",
+    options: ["A. True", "B. False"],
+    answers: ["A"],
+  },
+  {
+    number: 359,
+    type: "qcm",
+    question:
+      "In Huawei Cloud EI Enterprise Intelligence, which basic platform services are included? (Multiple Choice)",
+    options: [
+      "A. Machine learning",
+      "B. Deep learning",
+      "C. Graph engine",
+      "D. Batch processing",
+    ],
+    answers: ["A", "B", "C", "D"],
+  },
+  {
+    number: 360,
+    type: "qcu",
+    question:
+      "Linear algebra is a branch of algebra that deals with linear problems. The linear relationship is that the relationship between exponential objects is expressed in ( ) times form?",
+    options: ["A. 1", "B. 2", "C. 3", "D. 4"],
+    answers: ["A"],
+  },
+  {
+    number: 361,
+    type: "qcu",
+    question: '"print" in Python 3 must be used with "()"',
+    options: ["A. True", "B. False"],
+    answers: ["A"],
+  },
+  {
+    number: 362,
+    type: "qcu",
+    question:
+      "Deep learning is different from machine learning and there are no unsupervised algorithms",
+    options: ["A. True", "B. False"],
+    answers: ["B"],
+  },
+  {
+    number: 363,
+    type: "qcm",
+    question:
+      "What are the implementation modes of TensorFlow? (Multiple Choice)",
+    options: [
+      "A. Stand-alone mode",
+      "B. Distributed mode",
+      "C. Reverse mode",
+      "D. Forward mode",
+    ],
+    answers: ["A", "B"],
+  },
+  {
+    number: 364,
+    type: "qcm",
+    question:
+      "What are the application scenarios for the break statement in the Python language? (Multiple Choice)",
+    options: [
+      "A. Any Python statement",
+      "B. while loop statement",
+      "C. for loop statement",
+      "D. Nested loop statement",
+    ],
+    answers: ["B", "C", "D"],
+  },
+  {
+    number: 365,
+    type: "qcu",
+    question: "TensorFlow only supports Python and R language",
+    options: ["A. True", "B. False"],
+    answers: ["B"],
+  },
+  {
+    number: 366,
+    type: "qcm",
+    question:
+      "What are the commonly used gradient descent optimization functions? (Multiple Choice)",
+    options: [
+      "A. Random gradient descent",
+      "B. Adadelta",
+      "C. Adagrad",
+      "D. Momentum",
+      "E. RMSProp",
+    ],
+    answers: ["A", "B", "C", "D", "E"],
+  },
+  {
+    number: 367,
+    type: "qcu",
+    question: "What is not the optimization method in deep learning?",
+    options: [
+      "A. Random gradient descent",
+      "B. Back propagation algorithm",
+      "C. Principal component analysis",
+      "D. Momentum",
+    ],
+    answers: ["C"],
+  },
+  {
+    number: 368,
+    type: "qcu",
+    question:
+      "Information theory is a branch of applied mathematics. The main research is to quantify how much information a signal contains. Who is the first to propose information theory?",
+    options: ["A. Minsky", "B. Turing", "C. Simon", "D. Shannon"],
+    answers: ["D"],
+  },
+  {
+    number: 369,
+    type: "qcu",
+    question:
+      "Which of the following description is wrong about the image recognition cloud service?",
+    options: [
+      "A. The service identifies specific objects such as skyscrapers, buildings, and ships.",
+      "B. The service can also identify the sea, city, port and other scenes.",
+      "C. The service can perform semantic analysis on the content in the image to extract labels with specific abstract meanings",
+      "D. The service can provide object and scene labels and can also provide more conceptual labels.",
+    ],
+    answers: ["D"],
+  },
 ];
